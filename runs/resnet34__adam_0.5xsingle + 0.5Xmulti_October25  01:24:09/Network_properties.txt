@@ -1,0 +1,11 @@
+Batch size: 128
+Validation size: 1000
+Random seed: 1
+Shuffle: True
+Validation size: 1000
+Criterion: 0.5xsingle + 0.5Xmulti
+Learning rate: 0.01
+Momentum: 0.9
+Leraning Rate Scheduler: <function exp_lr_scheduler at 0x1a165c0d08>
+Leraning Rate Decay Period: 10
+MSE loss function: False
